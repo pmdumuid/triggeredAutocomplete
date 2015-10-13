@@ -1,0 +1,26 @@
+{
+  "name": "pmdumuid-triggeredAutocomplete",
+  "version": "0.0.1",
+  "homepage": "http://hawkee.com/snippet/9391/",
+  "authors": [
+    "Scott Aikin <scott@hawkee.com>"
+  ],
+  "description": "Triggers an autocomplete with a trigger character",
+  "main": ["jquery-ui.triggeredAutocomplete.js"],
+  "moduleType": [],
+  "keywords": [
+    "autocomplete"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0 <2.0.0",
+    "jquery-ui": ">=1.8.0 <2.0.0"
+  }
+}
